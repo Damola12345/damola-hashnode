@@ -10,6 +10,8 @@ tags: docker, aws, kubernetes, devops, containers
 
 Kubernetes is a powerful platform for managing containerized workloads, but it can be challenging to ensure that your applications are running efficiently and without issue. One common issue that you may encounter is `Node Disk-Pressure & Node Was Low On Resource`, which occurs when a node in your Kubernetes cluster runs out of disk space. In this blog post, we'll explore how to identify and resolve Node Disk-Pressure issues in your  Kubernetes environment.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701249268647/b49e5dc5-387e-4e45-9912-e52cc17bb3c0.webp align="center")
+
 ### **Identifying The Issue**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697726221541/c1050d70-84aa-42f9-99fb-4e8eb9800773.jpeg align="center")
