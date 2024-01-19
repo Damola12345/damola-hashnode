@@ -39,4 +39,6 @@ Here's an illustration of a pod affinity guideline below.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705485223885/7459b9b1-ead6-430f-95ff-ab67c349aa6d.png align="center")
 
-In conclusion, Affinity rules in Kubernetes use labels (key-value pairs) to guide where pods should be placed in the cluster. By setting these rules, you enhance efficiency and performance, essentially telling Kubernetes where you prefer your pods to be based on the labels you've defined. This optimization helps in better resource utilization, improves performance, and ensures that related pods share the same nodes for efficient communication. For more details, check out the [official documentation](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/#inter-pod-affinity-and-anti-affinity). It's a powerful tool for managing workload placement in Kubernetes.
+## ***Conclusion***
+
+Affinity rules in Kubernetes use labels (key-value pairs) to guide where pods should be placed in the cluster. By setting these rules, you enhance efficiency and performance, essentially telling Kubernetes where you prefer your pods to be based on the labels you've defined. This optimization helps in better resource utilization, improves performance, and ensures that related pods share the same nodes for efficient communication. For more details, check out the [official documentation](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/#inter-pod-affinity-and-anti-affinity). It's a powerful tool for managing workload placement in Kubernetes.
